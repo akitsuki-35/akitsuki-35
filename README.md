@@ -8,13 +8,39 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=20B2AA&center=true&vCenter=true&width=600&lines=Hey+there!+%F0%9F%91%8B;Game+Programmer+%F0%9F%9A%80;Tool+Developer+&#x1f4bb" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=20B2AA&center=true&vCenter=true&width=600&lines=Hey+there!+%F0%9F%91%8B;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
 </div>
 <!------------------------------>
 
-<!-- スキルアイコン -->
-## ◆Skills
+<!-- About Me -->
+## ☕ About Me
+- 🎓 I'm currently vocational student in Japan.
+- 🌱 I'm interested Game programmer and Technical artist.
+- 🔋 Powered by Video Games and Japanese Anime.
+- 🤝 I want to serve as a bridge between artists and engineers.
+
+---
+
+<!------------------------------>
+
+<!-- 技術スタック -->
+## 📚 Tech Stack
+### 💻 Programming Language
 ![](https://skillicons.dev/icons?i=c,cpp,cs,python)
+
+### 🎮 Game Engine
+![](https://skillicons.dev/icons?i=unity,unreal)
+
+### 🛠️ Tools
+![](https://skillicons.dev/icons?i=visualstudio,vscode,github,git)
+
+### ✨ Others
+- CLIP STUDIO PAINT
+- Maya
+
+---
+
+<!------------------------------>
 
 <!------------------------------>
 <!-- フッター -->
