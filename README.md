@@ -13,9 +13,11 @@
 <!------------------------------>
 
 <!-- About Me -->
+
 ## ☕ About Me
-- 🎓 I'm currently vocational student in Japan.
-- 🌱 I'm interested Game programmer and Technical artist.
+- 🧑‍🎓 I'm currently vocational student in Japan.
+- 🌱 I'm interested game programmer and technical artist.
+- 🔥 Motto is “Even so!”
 - 🔋 Powered by Video Games and Japanese Anime.
 - 🤝 I want to serve as a bridge between artists and engineers.
 
