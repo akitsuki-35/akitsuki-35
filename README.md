@@ -6,9 +6,15 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&animation=twinkling" />
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=20B2AA&center=true&vCenter=true&width=600&lines=Hey+there!+%F0%9F%91%8B;Game+Programmer+%F0%9F%9A%80;Tool+Developer+&#x1f4bb" alt="Typing SVG" />
+</div>
 <!------------------------------>
 
-
+<!-- スキルアイコン -->
+## ◆Skills
+![](https://skillicons.dev/icons?i=c,cpp,cs,python)
 
 <!------------------------------>
 <!-- フッター -->
